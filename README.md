@@ -6,7 +6,7 @@ The hardware setup includes an NVIDIA Jetson Nano paired with ArduCam IMX519 cam
 However, initial tests revealed performance limitations, achieving only 40 FPS instead of the targeted 400 Hz data rate, highlighting the need for further optimization. Future developments will focus on improving processing speed and enhancing real-time capabilities for high-speed rocket flights.
 
 📌 Key Features:
-✅ Multi-camera horizon detection (closed-loop 3D horizon estimation)
+✅ Multi-camera horizon detection (closed-loop 3D horizon estimation)\n
 ✅ Optical flow for roll estimation (unlike horizon-only methods)
 ✅ Drift-free alternative to IMU-based systems
 ✅ Hardware setup optimized for real-time rocket flight
